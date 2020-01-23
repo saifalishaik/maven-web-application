@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>admin</id>
 	      <name>admin</name>
-	      <url>http://15.206.171.79:8081/repository/mvn-rel/</url>
+	      <url>http://15.206.171.79:8081/repository/Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>admin</id>
 	      <name>admin</name>
-	      <url>http://15.206.171.79:8081/repository/mvn-snap/</url>
+	      <url>http://15.206.171.79:8081/repository/Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
